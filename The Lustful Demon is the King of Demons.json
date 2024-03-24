@@ -4,5 +4,14 @@
   "artist": "ZIGIZ",
   "author": "Minwon",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fsv8pxh2tq4xbayfq2p2e2aew.webp&w=1920&q=75",
-  "chapters": {}
+  "chapters": {
+    "5": {
+      "title": "5",
+      "volume": "1",
+      "last_updated": "1711300683",
+      "groups": {
+        "Omega Scans": "/proxy/api/imgbox/chapter/6UfadvsjqY"
+      }
+    }
+  }
 }
