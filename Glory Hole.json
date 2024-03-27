@@ -4,14 +4,5 @@
   "artist": "Ddat",
   "author": "Kimtuk",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fcovers%2F0f21a4f5-e6ca-4fec-af90-f147ab8228d8.jpg&w=640&q=75",
-  "chapters": {
-    "76": {
-      "title": "76",
-      "volume": "1",
-      "last_updated": "1711551416",
-      "groups": {
-        "Omega Scans": "/proxy/api/imgbox/chapter//xChhRSpNZj"
-      }
-    }
-  }
+  "chapters": {}
 }
