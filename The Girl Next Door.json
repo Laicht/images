@@ -4,5 +4,14 @@
   "artist": "-",
   "author": "Nuwaru",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fj0un6l7g6cpg5x31aqoe7tpo.webp&w=640&q=75",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1711629289",
+      "groups": {
+        "Omega Scans": "/proxy/api/imgbox/chapter/Yv7ja9JMNI"
+      }
+    }
+  }
 }
