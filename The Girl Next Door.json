@@ -6,7 +6,7 @@
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fj0un6l7g6cpg5x31aqoe7tpo.webp&w=640&q=75",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "2",
       "volume": "1",
       "last_updated": "1711629289",
       "groups": {
@@ -16,9 +16,17 @@
     "3": {
       "title": "3",
       "volume": "1",
-      "last_updated": "1711631288",
+      "last_updated": "1711630865",
       "groups": {
         "Omega Scans": "/proxy/api/imgbox/chapter/DCVUfBWvbb"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "1",
+      "last_updated": "1711631838",
+      "groups": {
+        "Omega Scans": "/proxy/api/imgbox/chapter/6xwWZx4Den"
       }
     }
   }
