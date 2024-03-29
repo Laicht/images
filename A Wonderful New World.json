@@ -4,5 +4,14 @@
   "artist": "Yoon Gon-ji",
   "author": "Go Sonjak",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fcovers%2F16c84cf6-9cb5-403a-bac4-f8f9ac6b86f4.png&w=640&q=75",
-  "chapters": {}
+  "chapters": {
+    "229": {
+      "title": "229",
+      "volume": "1",
+      "last_updated": "1711697068",
+      "groups": {
+        "Omega Scans": "/proxy/api/imgbox/chapter/rT9DBLbVVr"
+      }
+    }
+  }
 }
