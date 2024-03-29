@@ -4,5 +4,14 @@
   "artist": "",
   "author": "Sweoseul, Nez & Michuri",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fcovers%2F4c30fb3f-1fad-46e3-833e-e558cbecaae6.jpg&w=640&q=75",
-  "chapters": {}
+  "chapters": {
+    "20": {
+      "title": "20",
+      "volume": "1",
+      "last_updated": "1711711517",
+      "groups": {
+        "Omega Scans": "/proxy/api/imgbox/chapter/XNuDypXvG1"
+      }
+    }
+  }
 }
