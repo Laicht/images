@@ -4,5 +4,14 @@
   "artist": "Ppana",
   "author": "Mint Choco Riceball",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fcovers%2Fc211f1de-f5d3-4758-a915-7e246bc032c3.png&w=640&q=75",
-  "chapters": {}
+  "chapters": {
+    "33": {
+      "title": "33",
+      "volume": "1",
+      "last_updated": "1711697173",
+      "groups": {
+        "Omega Scans": "/proxy/api/imgbox/chapter/tOLN58LPlB"
+      }
+    }
+  }
 }
