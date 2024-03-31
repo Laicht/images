@@ -4,5 +4,14 @@
   "artist": "Bijeondong Five Color Crayons ",
   "author": "Dongsakdong Red Keyboard",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fcovers%2Fbc97e057-e117-4df6-a72c-a31c36a01c81.png&w=640&q=75",
-  "chapters": {}
+  "chapters": {
+    "36": {
+      "title": "36",
+      "volume": "1",
+      "last_updated": "1711875885",
+      "groups": {
+        "Omega Scans": "/proxy/api/imgbox/chapter/cSyQc01f0D"
+      }
+    }
+  }
 }
