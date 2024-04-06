@@ -4,5 +4,14 @@
   "artist": "ERO404",
   "author": "Yoan & Oh Gok Jeon Do Sa",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fcovers%2F00285ec4-e567-4a75-8e90-c5ef5ac9bde0.png&w=640&q=75",
-  "chapters": {}
+  "chapters": {
+    "43": {
+      "title": "43",
+      "volume": "1",
+      "last_updated": "1712391615",
+      "groups": {
+        "Omega Scans": "/proxy/api/imgbox/chapter/5yCVsIxSxd"
+      }
+    }
+  }
 }
