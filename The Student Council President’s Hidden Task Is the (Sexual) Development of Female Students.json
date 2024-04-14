@@ -4,5 +4,14 @@
   "artist": "",
   "author": "",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fdic2ouds98hn2b87lh778kbh.webp&w=640&q=75",
-  "chapters": {}
+  "chapters": {
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1713098682",
+      "groups": {
+        "Omega Scans": "/proxy/api/imgbox/chapter/YFL5PPTNyP"
+      }
+    }
+  }
 }
