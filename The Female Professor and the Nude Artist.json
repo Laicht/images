@@ -5,6 +5,14 @@
   "author": "one team",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fx1pa79zyst88dnhxexfvs4el.webp&w=640&q=75",
   "chapters": {
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1719853725",
+      "groups": {
+        "Omega Scans": "/proxy/api/imgbox/chapter/qfw5UPt4yh"
+      }
+    },
     "3": {
       "title": "3",
       "volume": "1",
