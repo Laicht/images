@@ -4,5 +4,14 @@
   "artist": "Im Soo-ah & Team Harusari",
   "author": "Im Soo-ah & Team Harusari",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fxv27imhczzsbbc651ztqf6ws.webp&w=640&q=75",
-  "chapters": {}
+  "chapters": {
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1721230831",
+      "groups": {
+        "Omega Scans": "/proxy/api/imgbox/chapter/wkWYP9xHn2"
+      }
+    }
+  }
 }
