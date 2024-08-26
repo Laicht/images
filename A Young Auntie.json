@@ -4,5 +4,14 @@
   "artist": "Jasaek Goguma",
   "author": "Saekma Shingong",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fgxi86ujxhsko7dz4r7u2cl64.jpg&w=640&q=75",
-  "chapters": {}
+  "chapters": {
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1724676745",
+      "groups": {
+        "": "/proxy/api/imgbox/chapter/lKaaChLkNF"
+      }
+    }
+  }
 }
