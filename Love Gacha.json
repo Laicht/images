@@ -4,5 +4,14 @@
   "artist": "Yegam",
   "author": "Ggochugaru ",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fqpuh0td8ae9ogcd56gwgnn21.jpg&w=640&q=75",
-  "chapters": {}
+  "chapters": {
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1724933917",
+      "groups": {
+        "": "/proxy/api/imgbox/chapter/8aivxswG9p"
+      }
+    }
+  }
 }
