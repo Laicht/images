@@ -4,5 +4,14 @@
   "artist": "BamGguem",
   "author": "DeokDengDengi",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fk3tvf5i51okie76sh4nfbtrx.jpg&w=640&q=75",
-  "chapters": {}
+  "chapters": {
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1727875788",
+      "groups": {
+        "Omega Scans": "/proxy/api/imgbox/chapter/N1SOQiX4nN"
+      }
+    }
+  }
 }
