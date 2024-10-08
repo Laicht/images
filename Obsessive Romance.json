@@ -4,5 +4,14 @@
   "artist": "Hosi & Tosho",
   "author": "Hosi & Tosho",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fjmhctpxusl9zxovk57xx9gah.webp&w=640&q=75",
-  "chapters": {}
+  "chapters": {
+    "40": {
+      "title": "40",
+      "volume": "1",
+      "last_updated": "1728400095",
+      "groups": {
+        "Omega Scans": "/proxy/api/imgbox/chapter/zsIsKsvtob"
+      }
+    }
+  }
 }
