@@ -4,5 +4,14 @@
   "artist": "JoongGgukma",
   "author": "PYO",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fjckgvw1hozqjksw90jc2tse1.jpg&w=640&q=75",
-  "chapters": {}
+  "chapters": {
+    "16": {
+      "title": "16",
+      "volume": "1",
+      "last_updated": "1729282500",
+      "groups": {
+        "Omega Scans": "/proxy/api/imgbox/chapter/2MdlQehi4Y"
+      }
+    }
+  }
 }
