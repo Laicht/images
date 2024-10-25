@@ -4,5 +4,14 @@
   "artist": "iMa",
   "author": "Seoput",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fjl9b0dqmpn7chwd15j911xzo.jpg&w=640&q=75",
-  "chapters": {}
+  "chapters": {
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "last_updated": "1729857800",
+      "groups": {
+        "Omega Scans": "/proxy/api/imgbox/chapter/zO0qllBWZ3"
+      }
+    }
+  }
 }
