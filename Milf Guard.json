@@ -4,5 +4,14 @@
   "artist": "Ant",
   "author": "Unit 308",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Folm8nnfqdphk203lcnq7evbz.jpg&w=640&q=75",
-  "chapters": {}
+  "chapters": {
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1729934594",
+      "groups": {
+        "": "/proxy/api/imgbox/chapter/Ykx4RhUm0w"
+      }
+    }
+  }
 }
