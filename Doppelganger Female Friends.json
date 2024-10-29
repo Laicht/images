@@ -60,6 +60,16 @@
       "groups": {
         "Omega Scans": "/proxy/api/imgbox/chapter/RJG5je7LkX"
       }
+    },
+    "9": {
+      "title": "9",
+      "volume": "1",
+      "last_updated": "1730210811",
+      "groups": {
+        "Omega Scans": [
+          "/proxy/api/imgbox/chapter/ynCzTomOso"
+        ]
+      }
     }
   }
 }
