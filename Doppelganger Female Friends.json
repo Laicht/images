@@ -64,11 +64,9 @@
     "9": {
       "title": "9",
       "volume": "1",
-      "last_updated": "1730210811",
+      "last_updated": "1730211529",
       "groups": {
-        "Omega Scans": [
-          "/proxy/api/imgbox/chapter/ynCzTomOso"
-        ]
+        "Omega Scans": "/proxy/api/imgbox/chapter/ynCzTomOso"
       }
     }
   }
