@@ -4,5 +4,14 @@
   "artist": "Park Daeman",
   "author": "Park Daeman",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fzsa17255g54u5jdiqeb2rnf8.jpg&w=640&q=75",
-  "chapters": {}
+  "chapters": {
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1730721123",
+      "groups": {
+        "": "/proxy/api/imgbox/chapter/pEK50feRun"
+      }
+    }
+  }
 }
