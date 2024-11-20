@@ -4,5 +4,14 @@
   "artist": "One Team",
   "author": "Studio Moon",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fujyvbp6q1f262ok9kpi684s0.jpg&w=640&q=75",
-  "chapters": {}
+  "chapters": {
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1732126749",
+      "groups": {
+        "": "/proxy/api/imgbox/chapter/SZhordCNHo"
+      }
+    }
+  }
 }
