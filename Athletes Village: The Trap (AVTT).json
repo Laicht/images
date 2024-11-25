@@ -4,5 +4,14 @@
   "artist": "Warrin",
   "author": "Honey Fruit",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fzj9ifxitae38xn6ecw7xbaem.jpg&w=640&q=75",
-  "chapters": {}
+  "chapters": {
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1732538562",
+      "groups": {
+        "": "/proxy/api/imgbox/chapter/uSCFsZ1TOn"
+      }
+    }
+  }
 }
