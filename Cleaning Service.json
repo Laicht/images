@@ -5,36 +5,36 @@
   "author": "Hyungjakga",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fqnxlfe57qotbgklybtcithvj.jpg&w=640&q=75",
   "chapters": {
-    "2": {
+    "1": {
       "title": "1",
-      "volume": "",
-      "last_updated": "1732882327",
+      "volume": "1",
+      "last_updated": "1733072156",
       "groups": {
-        "": "/proxy/api/imgbox/chapter/qeOIl0JWgC"
+        "Omega Scans": "/proxy/api/imgbox/chapter/zwM6jQpXK7"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1733072174",
+      "groups": {
+        "Omega Scans": "/proxy/api/imgbox/chapter/2zD9T4UUYL"
       }
     },
     "3": {
-      "title": "2",
+      "title": "3",
       "volume": "1",
-      "last_updated": "1732883324",
+      "last_updated": "1733072192",
       "groups": {
-        "Omega Scans": "/proxy/api/imgbox/chapter/CrBbVwevvQ"
+        "Omega Scans": "/proxy/api/imgbox/chapter/fLieob9vzA"
       }
     },
     "4": {
-      "title": "3",
+      "title": "4",
       "volume": "1",
-      "last_updated": "1732884445",
+      "last_updated": "1733072205",
       "groups": {
-        "Omega Scans": "/proxy/api/imgbox/chapter/HoZsyMrYNz"
-      }
-    },
-    "4.1": {
-      "title": "4.1",
-      "volume": "1",
-      "last_updated": "1733064079",
-      "groups": {
-        "Omega Scans": "/proxy/api/imgbox/chapter/329pmaxuVP"
+        "Omega Scans": "/proxy/api/imgbox/chapter/3XFjxMuNTF"
       }
     }
   }
