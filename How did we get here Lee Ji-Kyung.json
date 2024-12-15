@@ -3,7 +3,7 @@
   "description": "Nam Tae-Hyun, who went to school for the first time after COVID-19 social distancing restrictions were lifted…",
   "artist": "Toomics",
   "author": "Sato",
-  "cover": "",
+  "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fd9es9t60l3t33v4v6tcwy2tr.webp&w=640&q=75",
   "chapters": {
     "48": {
       "title": "48",
@@ -11,6 +11,14 @@
       "last_updated": "1734241309",
       "groups": {
         "Omega Scans": "/proxy/api/imgbox/chapter/A5vqwRXT68"
+      }
+    },
+    "49": {
+      "title": "49",
+      "volume": "",
+      "last_updated": "1734241451",
+      "groups": {
+        "Omega Scans": "/proxy/api/imgbox/chapter/ubugx1qsXo"
       }
     }
   }
