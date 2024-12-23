@@ -68,6 +68,22 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/Oc3QNJB"
       }
+    },
+    "15": {
+      "title": "15",
+      "volume": "",
+      "last_updated": "1734977618",
+      "groups": {
+        "": "/proxy/api/imgbox/chapter/0b6xtRHYOa"
+      }
+    },
+    "16": {
+      "title": "16",
+      "volume": "",
+      "last_updated": "1734977633",
+      "groups": {
+        "": "/proxy/api/imgbox/chapter/AbMxWtBDcn"
+      }
     }
   }
 }
