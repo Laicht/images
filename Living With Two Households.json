@@ -4,5 +4,14 @@
   "artist": "-",
   "author": "-",
   "cover": "-",
-  "chapters": {}
+  "chapters": {
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "last_updated": "1735422310",
+      "groups": {
+        "Omega Scans": "/proxy/api/imgbox/chapter/FAyo7LAxR0"
+      }
+    }
+  }
 }
