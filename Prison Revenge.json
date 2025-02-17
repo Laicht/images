@@ -12,6 +12,14 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/tDRbdcu"
       }
+    },
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "last_updated": "1739798256",
+      "groups": {
+        "Omega Scans": "/proxy/api/imgbox/chapter/r1Z1sE5VeJ"
+      }
     }
   }
 }
