@@ -7,10 +7,18 @@
   "chapters": {
     "2": {
       "title": "2",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1742562743",
       "groups": {
-        "": "/proxy/api/imgbox/chapter/GmE1SCncwD"
+        "Omega Scans": "/proxy/api/imgbox/chapter/GmE1SCncwD"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "last_updated": "1742568724",
+      "groups": {
+        "Omega Scans": "/proxy/api/imgbox/chapter/9mTmjXxNqB"
       }
     }
   }
