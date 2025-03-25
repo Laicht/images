@@ -47,10 +47,18 @@
     },
     "7": {
       "title": "7",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1742899834",
       "groups": {
-        "": "/proxy/api/imgbox/chapter/waGxeBvHyY"
+        "Omega Scans": "/proxy/api/imgbox/chapter/waGxeBvHyY"
+      }
+    },
+    "8": {
+      "title": "8",
+      "volume": "1",
+      "last_updated": "1742903937",
+      "groups": {
+        "Omega Scans": "/proxy/api/imgbox/chapter/G3FOfVKuq1"
       }
     }
   }
