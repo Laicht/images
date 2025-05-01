@@ -4,5 +4,14 @@
   "artist": "KJG",
   "author": "Tam",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Ffjq64b7zosx18w7h75slqu1j.jpg&w=640&q=75",
-  "chapters": {}
+  "chapters": {
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1746103058",
+      "groups": {
+        "": "/proxy/api/imgbox/chapter/vQjlFAId6R"
+      }
+    }
+  }
 }
