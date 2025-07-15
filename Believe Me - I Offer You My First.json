@@ -4,5 +4,14 @@
   "artist": "Euwong",
   "author": "Eunsa",
   "cover": "https://omegascans.org/_next/image?url=https%3A%2F%2Fmedia.omegascans.org%2Ffile%2FzFSsXt%2Fpkn6gptwe77e2858eslaxj7s.jpg&w=1920&q=75",
-  "chapters": {}
+  "chapters": {
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1752585207",
+      "groups": {
+        "": "/proxy/api/imgbox/chapter/Q8Guu7Jh5I"
+      }
+    }
+  }
 }
